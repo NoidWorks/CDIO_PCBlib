@@ -3239,6 +3239,16 @@
 		)
 		(uuid "10d48c43-30f8-4cad-921d-518226dacef0")
 	)
+	(label "IO_3V3"
+		(at 22.86 91.44 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "12a0bef8-14c0-4313-86b9-177a16373cda")
+	)
 	(label "D1+"
 		(at 69.85 43.18 0)
 		(effects
@@ -3259,17 +3269,7 @@
 		)
 		(uuid "17428dfa-0cbd-48ab-859d-7bf0ae24fc41")
 	)
-	(label "IO_SDA"
-		(at 22.86 88.9 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "1771993c-190e-4380-a006-617a2a0f462d")
-	)
-	(label "IO_LED"
+	(label "IO_5V"
 		(at 22.86 93.98 180)
 		(effects
 			(font
@@ -3277,7 +3277,7 @@
 			)
 			(justify right bottom)
 		)
-		(uuid "1a6fb80a-bb86-44ff-a8d4-3e141d2adebd")
+		(uuid "1d1c658f-7ed8-4f66-8874-83a0775ca69d")
 	)
 	(label "d2+"
 		(at 106.68 43.18 0)
@@ -3288,26 +3288,6 @@
 			(justify left bottom)
 		)
 		(uuid "2a206e9f-ee89-48f9-8749-105ad2d0ac09")
-	)
-	(label "IO_5V"
-		(at 22.86 83.82 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "3366e9f1-a97b-4dcf-a499-46f2ef18a158")
-	)
-	(label "IO_3V3"
-		(at 22.86 86.36 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "3fccab16-a807-4e66-a2a4-874b0a26cb07")
 	)
 	(label "D2-"
 		(at 128.27 40.64 0)
@@ -3359,6 +3339,16 @@
 		)
 		(uuid "8a14c188-03c0-48b1-9644-9000781c995a")
 	)
+	(label "IO_SDA"
+		(at 22.86 86.36 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "915d15cc-90c0-49a3-9d4e-f36f9056603c")
+	)
 	(label "D1-"
 		(at 22.86 76.2 180)
 		(effects
@@ -3369,6 +3359,16 @@
 		)
 		(uuid "96f99bb9-3971-4393-bf1a-fa3fd3cffebf")
 	)
+	(label "IO_SCL"
+		(at 22.86 88.9 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "bbddffd9-2075-46d4-9806-31a3f58b43ae")
+	)
 	(label "D2-"
 		(at 22.86 99.06 180)
 		(effects
@@ -3378,6 +3378,16 @@
 			(justify right bottom)
 		)
 		(uuid "c1addec3-fc10-4707-8bb2-6579855eead8")
+	)
+	(label "IO_LED"
+		(at 22.86 83.82 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "ce4bf5cd-e0a6-453f-8304-dffba13b0024")
 	)
 	(label "D2+"
 		(at 22.86 101.6 180)
@@ -3418,16 +3428,6 @@
 			(justify left bottom)
 		)
 		(uuid "ec2a695f-6c65-4eab-aab5-70a43bed0515")
-	)
-	(label "IO_SCL"
-		(at 22.86 91.44 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "f95ef90f-70e4-4fb1-b917-02f48090f2ab")
 	)
 	(label "D1+"
 		(at 22.86 78.74 180)
