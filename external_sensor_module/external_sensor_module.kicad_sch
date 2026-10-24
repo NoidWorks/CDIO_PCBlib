@@ -13401,7 +13401,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TSM500P02CX_RFG:TRANS_TSM500P02CX_RFG"
+		(property "Footprint" "Library:TRANS_TSM500P02CX_RFG"
 			(at 180.34 22.86 0)
 			(hide yes)
 			(show_name no)

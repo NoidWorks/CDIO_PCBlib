@@ -211,10 +211,11 @@
       ],
       "track_widths": [
         0.0,
-        0.25,
+        0.254,
         0.5,
         0.75,
-        1.0
+        1.0,
+        1.5
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -501,16 +502,11 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [
-      "External",
-      "Library"
-    ],
-    "pinned_symbol_libs": [
-      "Library"
-    ]
+    "pinned_footprint_libs": [],
+    "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "external_sensor_module.kicad_pro",
+    "filename": "layout_b.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -644,14 +640,14 @@
       "intersheets_ref_show": false,
       "intersheets_ref_suffix": "",
       "junction_size_choice": 3,
-      "label_size_ratio": 0.375,
+      "label_size_ratio": 0.25,
       "operating_point_overlay_i_precision": 3,
       "operating_point_overlay_i_range": "~A",
       "operating_point_overlay_v_precision": 3,
       "operating_point_overlay_v_range": "~V",
       "overbar_offset_ratio": 1.23,
-      "pin_symbol_size": 25.0,
-      "text_offset_ratio": 0.15
+      "pin_symbol_size": 0.0,
+      "text_offset_ratio": 0.08
     },
     "legacy_lib_dir": "",
     "legacy_lib_list": [],
@@ -665,18 +661,27 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "external_sensor_module.kicad_sch",
-        "name": "Rotark",
+        "filename": "layout_b.kicad_sch",
+        "name": "layout_b",
         "uuid": "ec896e98-05fd-4901-ab0a-976d8bc1ccfd"
+      },
+      {
+        "filename": "io_plate.kicad_sch",
+        "name": "IO plate",
+        "uuid": "3cce0bc6-c29d-4119-a4cb-93add0fb71dc"
       }
     ],
-    "used_designators": "R1-11,J1-5,U1-5,D1-2,#PWR1-23,J4_Lidar1,C1-5,PS1,L1,J2_USB_C_PROG1,J3_Camera1,J5_SDCard1,J6_Platform1",
+    "used_designators": "Q1,D1,D3,D5,#PWR6,#PWR8-11,#PWR13,#PWR26,#PWR32-41,J2,J7-12,R1-2,R14,R16-18,U2,U4,C9-10,CamMnt1-2",
     "variants": []
   },
   "sheets": [
     [
       "ec896e98-05fd-4901-ab0a-976d8bc1ccfd",
-      "Rotark"
+      "layout_b"
+    ],
+    [
+      "3cce0bc6-c29d-4119-a4cb-93add0fb71dc",
+      "IO plate"
     ]
   ],
   "text_variables": {},
