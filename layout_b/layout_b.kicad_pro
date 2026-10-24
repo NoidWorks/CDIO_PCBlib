@@ -503,7 +503,9 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "Library"
+    ]
   },
   "meta": {
     "filename": "layout_b.kicad_pro",
@@ -671,7 +673,7 @@
         "uuid": "3cce0bc6-c29d-4119-a4cb-93add0fb71dc"
       }
     ],
-    "used_designators": "Q1,D1,D3,D5,#PWR6,#PWR8-11,#PWR13,#PWR26,#PWR32-41,J2,J7-12,R1-2,R14,R16-18,U2,U4,C9-10,CamMnt1-2",
+    "used_designators": "Q1,D1,D3,D5,#PWR6,#PWR8-11,#PWR13,#PWR26,#PWR32-45,J2,J7-12,R1-2,R14,R16-18,U2,U4,C9-10,CamMnt1-2,H1-8",
     "variants": []
   },
   "sheets": [
