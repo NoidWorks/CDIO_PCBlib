@@ -673,13 +673,13 @@
         "uuid": "3cce0bc6-c29d-4119-a4cb-93add0fb71dc"
       }
     ],
-    "used_designators": "Q1,#PWR6,#PWR8-11,#PWR13,#PWR26,#PWR32-45,#PWR52-53,#PWR56-57,#PWR59,#PWR61,#PWR63,#PWR65,#PWR67,#PWR69,D1,D3,D5,R1-2,R14,R16-18,R56-57,R60-61,R63,J2,J7-12,U2,U4,U9,C9-10,C44,C46,C48,C50,C52,CamMnt1-2,H1-8",
+    "used_designators": "Q1,#PWR1-61,#PWR63,#PWR65,#PWR67,#PWR69,D1-6,R1-23,R56-57,R60-61,R63,J1-14,U1-7,U9,C1-15,C44,C46,C48,C50,C52,CamMnt1-2,H1-8,L1,PS1,SW1",
     "variants": []
   },
   "sheets": [
     [
       "ec896e98-05fd-4901-ab0a-976d8bc1ccfd",
-      "layout_b"
+      "layout_c"
     ],
     [
       "3cce0bc6-c29d-4119-a4cb-93add0fb71dc",
