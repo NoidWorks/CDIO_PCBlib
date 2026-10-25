@@ -9465,6 +9465,10 @@
 		(uuid "b32e9fc1-dde0-4ab5-8a9a-51f84877799b")
 	)
 	(no_connect
+		(at 134.62 54.61)
+		(uuid "b9d7d522-9864-4285-bbbe-1c7b39db4d2b")
+	)
+	(no_connect
 		(at 134.62 72.39)
 		(uuid "ba74e028-f073-4ee6-92cb-8d0c8cf5faa4")
 	)
@@ -11417,16 +11421,6 @@
 		)
 		(uuid "3300d4b1-e1ed-495f-87b6-d52e128f01c6")
 	)
-	(label "TEMP_SCL"
-		(at 83.82 148.59 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "370c7178-145b-4964-ad49-a008bcd3dd39")
-	)
 	(label "CSI_D0+"
 		(at 134.62 90.17 0)
 		(effects
@@ -11666,6 +11660,16 @@
 			(justify right bottom)
 		)
 		(uuid "7517a612-ac6b-4e8e-b791-72898188899b")
+	)
+	(label "TEMP_SDA"
+		(at 83.82 148.59 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "77eef011-1677-4269-96e6-41354eb282c0")
 	)
 	(label "44"
 		(at 19.05 38.1 180)
@@ -11987,6 +11991,16 @@
 		)
 		(uuid "b4e696df-0b15-4a9b-aba7-ea48b260416d")
 	)
+	(label "TEMP_SCL"
+		(at 83.82 146.05 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "b5122fc4-c687-400e-990b-79b351ced441")
+	)
 	(label "I2C SDA"
 		(at 261.62 54.61 0)
 		(effects
@@ -12016,16 +12030,6 @@
 			(justify right bottom)
 		)
 		(uuid "bd7ce659-10dd-4ef1-a324-f05e02a2f0bc")
-	)
-	(label "TEMP_SDA"
-		(at 83.82 146.05 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "bef63a94-91e8-4c78-bb16-87c05910cd86")
 	)
 	(label "SD_VDD"
 		(at 186.69 20.32 0)
@@ -13045,7 +13049,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical"
+		(property "Footprint" "Connector_JST:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical"
 			(at 33.02 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -15800,7 +15804,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical"
+		(property "Footprint" "Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical"
 			(at 33.02 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -15958,7 +15962,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_EH_B8B-EH-A_1x08_P2.50mm_Vertical"
+		(property "Footprint" "Connector_JST:JST_XH_B8B-XH-A_1x08_P2.50mm_Vertical"
 			(at 58.42 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -18533,7 +18537,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical"
+		(property "Footprint" "Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical"
 			(at 33.02 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -21040,7 +21044,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_EH_B5B-EH-A_1x05_P2.50mm_Vertical"
+		(property "Footprint" "Connector_JST:JST_XH_B5B-XH-A_1x05_P2.50mm_Vertical"
 			(at 33.02 185.42 0)
 			(hide yes)
 			(show_name no)
