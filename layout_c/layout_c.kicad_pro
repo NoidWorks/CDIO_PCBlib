@@ -99,43 +99,7 @@
           ""
         ],
         [
-          "invalid_outline|153150000|74200000|f42ddc23-f170-414c-9da7-49291e17668f|09d0ca80-f7ec-4793-8d29-c88b7d3e2846",
-          ""
-        ],
-        [
-          "invalid_outline|153150000|74700000|182cb521-c346-41a7-859f-c8ecee5eb29d|09d0ca80-f7ec-4793-8d29-c88b7d3e2846",
-          ""
-        ],
-        [
-          "invalid_outline|171150000|74200000|f42ddc23-f170-414c-9da7-49291e17668f|7e6eaf9d-1650-48c8-8221-ed2594b4f939",
-          ""
-        ],
-        [
-          "invalid_outline|171150000|74700000|182cb521-c346-41a7-859f-c8ecee5eb29d|7e6eaf9d-1650-48c8-8221-ed2594b4f939",
-          ""
-        ],
-        [
-          "invalid_outline|181600000|128450000|182cb521-c346-41a7-859f-c8ecee5eb29d|1d3fe34b-dae1-4bd8-9a9c-524f7ea1b0f8",
-          ""
-        ],
-        [
-          "invalid_outline|188300000|74200000|f42ddc23-f170-414c-9da7-49291e17668f|d9c2a39f-7e24-47e8-9449-73d53a8618f2",
-          ""
-        ],
-        [
-          "invalid_outline|188300000|74700000|182cb521-c346-41a7-859f-c8ecee5eb29d|d9c2a39f-7e24-47e8-9449-73d53a8618f2",
-          ""
-        ],
-        [
           "isolated_copper|197698084|40299888|7e148b4e-6467-4b0f-bb7f-e6130eb842c9|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "silk_edge_clearance|159050000|74950000|09d0ca80-f7ec-4793-8d29-c88b7d3e2846|edd12ed3-a139-4c99-bc25-c4b5fd669520",
-          ""
-        ],
-        [
-          "silk_edge_clearance|160300000|74950000|09d0ca80-f7ec-4793-8d29-c88b7d3e2846|32065cad-e4dd-46da-ad8b-2aa50651cd0e",
           ""
         ],
         [
@@ -949,7 +913,7 @@
         "uuid": "3cce0bc6-c29d-4119-a4cb-93add0fb71dc"
       }
     ],
-    "used_designators": "Q1,#PWR1-90,D1-9,R1-50,R56-57,R60-61,R63,J1-16,U1-9,C1-34,C44,C46,C48,C50,C52,CamMnt1-2,H1-8,L1-2,PS1,SW1-2,TP1-2,IC1-2",
+    "used_designators": "Q1,#PWR1-94,D1-10,R1-50,R56-57,R60-61,R63,J1-16,U1-9,C1-34,C44,C46,C48,C50,C52,CamMnt1-2,H1-8,L1-2,PS1,SW1-2,TP1-11,IC1-2",
     "variants": []
   },
   "sheets": [
