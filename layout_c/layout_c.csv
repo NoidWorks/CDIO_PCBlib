@@ -1,0 +1,48 @@
+Reference	Qty	Value	Exclude from BOM	Footprint
+C3,C10,C14	3	10u		Capacitor_SMD:C_0805_2012Metric
+C4,C11,C12,C13,C15,C16,C17,C20	8	100n		Capacitor_SMD:C_0805_2012Metric
+C5	1	0.47uF		Capacitor_SMD:C_0402_1005Metric
+C6	1	Bulk		Capacitor_Tantalum_SMD:CP_EIA-6032-15_Kemet-U
+C7	1	0.1uF		Capacitor_SMD:C_0402_1005Metric
+C8	1	0.22uF		Capacitor_SMD:C_0402_1005Metric
+C9	1	0.022uF		Capacitor_SMD:C_0402_1005Metric
+C18,C19	2	1u		Capacitor_SMD:C_0805_2012Metric
+C21,C22	2	22u		Capacitor_SMD:C_0805_2012Metric
+C23	1	56p		Capacitor_SMD:C_0805_2012Metric
+D1,D2,D4,D5	4	SS34		Diode_SMD:D_SMA
+D3,D6,D7,D8	4	WL-SMCD_0603		Library:WL-SMCD_0603
+J2	1	Power		Connector_JST:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical
+J3	1	platform UART		Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical
+J4	1	Radar UART		Connector_JST:JST_XH_B5B-XH-A_1x05_P2.50mm_Vertical
+J5	1	Lidar		Connector_JST:JST_XH_B5B-XH-A_1x05_P2.50mm_Vertical
+J6	1	Conn_01x08		Connector_JST:JST_XH_B8B-XH-A_1x08_P2.50mm_Vertical
+J7	1	Conn_01x04		Connector_JST:JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical
+J8	1	MSD-4-A		Library:CUI_MSD-4-A
+J9	1	CSI2 Camera		Library:686115183522
+J10	1	Conn_01x11		Connector_JST:JST_XH_B11B-XH-A_1x11_P2.50mm_Vertical
+J11,J12	2	USB4120-03-C_REVA6		Library:GCT_USB4120-03-C_REVA6
+J13	1	Limit Switch		Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical
+L2	1	10u		Inductor_SMD:L_0805_2012Metric
+Q1	1	TSM500P02CX_RFG		Library:TRANS_TSM500P02CX_RFG
+R2,R5,R12,R17,R18,R24	6	0		Resistor_SMD:R_0805_2012Metric
+R3,R13	2	10k		Resistor_SMD:R_0805_2012Metric
+R4,R26	2	10k		Resistor_SMD:R_0603_1608Metric
+R6,R8	2	R		Resistor_SMD:R_0603_1608Metric
+R7,R9	2	R		Resistor_SMD:R_0603_1608Metric
+R10,R11	2	3k3		Resistor_SMD:R_0805_2012Metric
+R14	1	NC		Resistor_SMD:R_0805_2012Metric
+R15,R16	2	2k2		Resistor_SMD:R_0805_2012Metric
+R19,R20,R21,R22,R23	5	5k1		Resistor_SMD:R_0805_2012Metric
+R25	1	5k1		Resistor_SMD:R_0603_1608Metric
+R27	1	30k		Resistor_SMD:R_0603_1608Metric
+R28	1	100k		Resistor_SMD:R_0603_1608Metric
+R29	1	50		Resistor_SMD:R_0603_1608Metric
+R30	1	22k1		Resistor_SMD:R_0603_1608Metric
+SW1	1	RST		Button_Switch_SMD:SW_SPST_CK_RS282G05A3
+TP1	1	TestPoint		TestPoint:TestPoint_Pad_D1.0mm
+U1	1	ESP32-P4_MODULE		Library:XCVR_ESP32-P4_MODULE
+U2	1	DRV8434PWP		Package_SO:TSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP3.4x9.7mm_Mask3.1x4.05mm
+U3	1	MLX90614ESF-BAA-000-TU		Library:MLX9061_TO254P942H425-4
+U4	1	BNO085		Library:IC_BNO085
+U5,U6	2	USBLC6-2SC6		Package_TO_SOT_SMD:SOT-23-6
+U7	1	TPS54202HDDCR		Library:SOT95P280X110-6N
