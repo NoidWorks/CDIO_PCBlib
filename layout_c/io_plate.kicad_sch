@@ -3045,6 +3045,16 @@
 	)
 	(wire
 		(pts
+			(xy 114.3 83.82) (xy 120.65 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "36cf5d6c-7054-4dee-b9a6-920331ec6ac7")
+	)
+	(wire
+		(pts
 			(xy 58.42 87.63) (xy 58.42 88.9)
 		)
 		(stroke
@@ -3235,6 +3245,16 @@
 	)
 	(wire
 		(pts
+			(xy 114.3 81.28) (xy 120.65 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b6f104ec-9eef-4b00-80fc-ecdc01c64cc4")
+	)
+	(wire
+		(pts
 			(xy 22.86 83.82) (xy 25.4 83.82)
 		)
 		(stroke
@@ -3414,7 +3434,7 @@
 		(uuid "5caa7c45-7325-4cd6-a07c-d5b69b3436b7")
 	)
 	(label "IO_SDA"
-		(at 120.65 81.28 180)
+		(at 114.3 81.28 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3594,7 +3614,7 @@
 		(uuid "dcf7651f-31fd-4e11-875e-087c15458e2a")
 	)
 	(label "IO_SCL"
-		(at 120.65 83.82 180)
+		(at 114.3 83.82 180)
 		(effects
 			(font
 				(size 1.27 1.27)
