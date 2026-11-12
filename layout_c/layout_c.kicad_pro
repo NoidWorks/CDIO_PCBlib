@@ -87,15 +87,7 @@
           ""
         ],
         [
-          "clearance|107625000|113570000|1c87f630-2f50-4c59-a817-752f9bd220b3|4fc2e3c4-59c3-4de2-a6e9-7ad15997a595",
-          ""
-        ],
-        [
           "clearance|110550000|113695000|c9a62fd7-72f7-4544-8a11-175fb887aa22|033f038d-7517-4f4c-b6d2-70fe877b990d",
-          ""
-        ],
-        [
-          "clearance|110675000|110770000|041f7d24-c2e8-4fc0-a85f-5a3ab0f318f6|ac63ca7c-5568-4220-98d4-5cd5a7dfc467",
           ""
         ],
         [
@@ -686,16 +678,16 @@
       "method": 0,
       "sort_order": 0
     },
-    "bom_export_filename": "BOM.csv",
+    "bom_export_filename": "${PROJECTNAME}.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
-      "field_delimiter": ",",
+      "field_delimiter": "\t",
       "keep_line_breaks": false,
-      "keep_tabs": true,
-      "name": "---",
+      "keep_tabs": false,
+      "name": "TSV",
       "ref_delimiter": ",",
       "ref_range_delimiter": "",
-      "string_delimiter": "\""
+      "string_delimiter": ""
     },
     "bom_presets": [],
     "bom_settings": {
